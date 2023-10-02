@@ -9,6 +9,7 @@
     --cor-de-fundo: linear-gradient(180deg, #f50505 0%, #1a0101 100%);
     --preto: #000000;
     --fonte-principal: "Poppins";
+    --fonte-secundario: "Open Sans";
 }
 
 body {
